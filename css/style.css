@@ -1,0 +1,46 @@
+#colum-1, #colum-2, #colum-3 {
+  width: 33%;
+  float: left;
+}
+
+li {
+  list-style-type: none;
+  margin-left: 106px;
+}
+
+ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.btn {
+  border: none;
+  background-color: none;
+  padding: 0;
+}
+
+.panel {
+  display: flex;
+  align-items: center;
+}
+
+#Tag-1,#Tag-2 {
+  margin: 0 auto;
+}
+
+.header {
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+ #p3 {
+   border: 0.5px solid grey;
+   text-align: center;
+   margin: 0 0 0 105px ;
+   width: 90%;
+ }
+ 
+ 
+
+
+
